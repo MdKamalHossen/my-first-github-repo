@@ -1,0 +1,9 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+.back{
+    background-color: rgb(211, 28, 3);
+    height: 100px;
+    display: inline-block;
+}
